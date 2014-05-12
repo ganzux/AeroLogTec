@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <head>
+        <column width="0"  type="ro" align="left" sort="str">Id</column>
+        <column width="20" type="ro" align="left" sort="str">Nombre</column>
+        <column width="15" type="ro" align="left" sort="str">Correo</column>
+        <column width="10" type="ro" align="left" sort="str">Precio</column>
+        <column width="0"  type="ro" align="left" sort="str">MonedaId</column>
+        <column width="10" type="ro" align="left" sort="str">Moneda</column>
+        <column width="29" type="ro" align="left" sort="str">Datos</column>
+        <column width="15" type="ro" align="left" sort="str">Fecha</column>
+        <column width="0"  type="ro" align="left" sort="str">Fichero</column>
+        <column width="0"  type="ro" align="left" sort="str">Idioma</column>
+        <settings>
+            <colwidth>%</colwidth>
+        </settings>
+    </head>
+    <row>
+        <cell>1</cell>
+        <cell>mr. erik hedlund</cell>
+        <cell>prague@airsweden.net</cell>
+        <cell>23.50</cell>
+        <cell>978</cell>
+        <cell>€</cell>
+        <cell>
+        dear erik
+
+        please pay the invoice attached.
+
+        thanks a lot
+
+        manuel
+        </cell>
+        <cell>2010-11-09 11:44:14</cell>
+        <cell>2010-11-09_11-44-14.pdf</cell>
+        <cell>001</cell>
+    </row>
+</rows>
